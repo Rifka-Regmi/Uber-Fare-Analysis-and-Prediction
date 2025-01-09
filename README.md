@@ -1,1 +1,1 @@
-# Uber-Fare-Analysis-and-Prediction
+The objective of this project is to analyze Uber trip data to uncover key insights and build a machine learning model capable of accurately predicting Uber fare amounts based on trip characteristics such as distance, time, and date.
